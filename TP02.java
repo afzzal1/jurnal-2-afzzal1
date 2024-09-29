@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class soal2 {
+class TP02 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int N = input.nextInt(); 

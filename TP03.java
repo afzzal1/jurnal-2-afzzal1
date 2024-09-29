@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class soal3 {
+class TP03 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int panjangPersegiPanjang = input.nextInt();
